@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Andy
 
-<!--
-**Jackson200/Jackson200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior UX Designer/Developer** focused on enterprise systems, internal tooling, and scalable design processes.
 
-Here are some ideas to get you started:
+I work at the intersection of:
+- 🧩 User experience strategy
+- 🛠️ Component-driven development
+- 📊 Data-heavy admin interfaces
+- 📚 Documentation and design ops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Bring
+- Enterprise UX for tools handling confidential financial and operational data
+- Strong focus on design systems (ViewComponent, Lookbook, Storybook)
+- Excellent at translating high-level ideas into clear requirements and deliverables
+- Experienced in mentoring, hiring, and cross-functional collaboration
