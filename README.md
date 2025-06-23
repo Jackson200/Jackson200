@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andy
+# 👋 Hey! I'm Andy
 
 **Senior UX Designer/Developer** focused on enterprise systems, internal tooling, and scalable design processes.
 
